@@ -19,6 +19,7 @@ personalised and recommended by a machine learning service.
 
 ##### Data analytics capabilities 
 - Cloud Watch Logs
+- Any 3rd party analytics dashboard that can fetch data from elastic search and show it
 
 ##### Monitoring of services 
 - Cloud Watch Logs
